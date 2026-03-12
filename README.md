@@ -1,4 +1,5 @@
 <h1 align="center">Analytics Dashboard Prototype</h1>
+<img src="images/Dashboard-2.png" />
 <img src="images/sample_output.png" alt="Sample output Image" />
 <p align="center">
 A lightweight dashboard prototype that demonstrates how marketing and sales data
